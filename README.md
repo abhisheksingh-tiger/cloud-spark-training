@@ -1,4 +1,4 @@
-# cloud-spark-training
+# cloud-spark-training - assignment1
 MLE cloud and spark training
 
 The code deploys a flask app to display the folder and their respective files
