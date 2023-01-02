@@ -6,3 +6,5 @@ Run the following lines to execute the code
 1. conda env create -f blob_app_env.yml
 2. conda activate azure_training
 3. python demo1.py
+
+![azure_cost](https://user-images.githubusercontent.com/96059116/210198099-ec0dcabd-078f-435c-9f65-24326bc44086.png)
